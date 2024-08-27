@@ -1,0 +1,28 @@
+step wise
+
+Input Handling
+ Learn how to capture user input in Python.
+ Use the input() function to read a line of text entered by the user.
+
+String Manipulation
+ Process the text to count the number of words.
+Use string methods to split the text into words based on whitespace.
+Count the number of words in the list obtained from the split operation.
+
+Function Creation
+Write a function to encapsulate the word-counting logic.
+Define a function that accepts a string as input and returns the count of words.
+Ensure the function handles empty strings or strings with only whitespace by returning a count of zero in such cases.
+
+Basic Control Flow
+Manage the program's logic and handle edge cases.
+Implement control flow to check if the input is empty or consists only of whitespace.
+Use appropriate conditions to handle such cases and return the correct word count.
+
+Output Display
+Display the word count to the user.
+Create a main() function to:
+Prompt the user to enter a sentence or paragraph.
+Call the word-counting function and retrieve the word count.
+Print the word count in a clear and informative manner.
+Ensure that the main() function is executed when the script is run directly.
